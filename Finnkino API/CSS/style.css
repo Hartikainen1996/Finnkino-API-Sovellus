@@ -1,0 +1,36 @@
+.center {
+  margin: auto;
+  width: 70%;
+  border: 5px solid #222222;
+  padding: 2%;
+  text-align: center;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.movies {
+  padding: 1em 2em;
+  margin-top: 2em;
+  color: white;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.logo {
+  width: 45%;
+}
+
+body {
+  background-image: url("kuva.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+select {
+  background-color: #000000;
+  color:  #ffffff;
+  padding: 8px;
+  font-size: 17px
+}
